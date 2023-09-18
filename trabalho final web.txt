@@ -1,0 +1,7 @@
+Back-end
+https://gitlab.com/kkolln/projetofinalweb.git
+Branch -> master
+
+Front-end
+https://gitlab.com/lucas.toledo2/projetofinalwebfront.git
+Branch -> master
